@@ -1,4 +1,7 @@
 ### Hi there 👋
+hello I am naresh parmar. I am rajkot india base freelancher android developer. I have work many android application using java/kotlin.
+
+Why 
 
 <!--
 **ParmarNaresh/ParmarNaresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
