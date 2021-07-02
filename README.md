@@ -28,7 +28,7 @@ I will develop the android app as per your budget & timeline.
   ✨I will follow the best coding standards and application code will be easily understandable by any developer.
   ✨The application will be a user-friendly application.
   ✨All coding will be backward compatible, so don't worry about device compatibility.
-  ✨I will use the android studio as IDE and java/kotlin as a programming language.
+  ✨I will use the android studio as IDE and java/kotlin as a programming language. 
 
 
 
