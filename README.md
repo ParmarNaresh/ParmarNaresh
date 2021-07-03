@@ -7,21 +7,23 @@ I will develop the android app as per your budget & timeline.
 
 ## Bellow services I will provide:-
 
-  ✨Social Media Login (Facebook, Google, etc.)
-  ✨Send OTP using Firebase
-  ✨Push notification
-  ✨Firebase Database
-  ✨Local Database using SQLite
-  ✨API integrations(using JSON Web Service)
-  ✨Google Map
   ✨App Design
   ✨Material Design
-  ✨UI improvement
+  ✨UI Improvement
+  ✨Social Media Login (Facebook, Google, etc.)
+  ✨Send OTP using Firebase
+  ✨Push Notification
+  ✨Firebase Database
+  ✨Local Database using SQLite
+  ✨Room Database
+  ✨Data Binding
+  ✨Retrofit
+  ✨API integrations(using JSON Web Service)
+  ✨Google Map
   ✨Bug Fixing
   ✨Google Ads implement
   ✨Crash Fixing
   ✨Web Admin Panel Development
-  ✨Other types of android app.
 
 ## Why choose me as your developer
 
