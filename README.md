@@ -34,6 +34,10 @@ I will develop the android app as per your budget & timeline.
 
 ## Client Feedback
   
+  ✨ It was a very good experience working with him.
+  
+  ✨ Mr. Naresh is professional.He delivered all the requirements as well as getting the job done on time.This will not be the last time I deal with him.
+  
   ✨ Thank you so much Naresh, I really appreciate your work, this is the 2nd time i order from Naresh, I am Very satisfied with his service! He is very professional and patient and great communicator And intelligent person, I wish you the best brother and great success, Thank you again.-jayaflak,United States
   
   ✨ One of the best and respected and responsive and responsible and very very skilled developers, I really appreciate your help and patient with going through my project, Thank you so much again. I wish you the best brother -jayaflak,United States
