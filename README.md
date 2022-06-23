@@ -1,8 +1,8 @@
 ### Hi there 👋
-hello I am Naresh Parmar. I am Rajkot India base freelancher android developer. I have worked 20+ android application using Java/Kotlin. I have 5 years experience in android native app development.
+hello, I am Naresh Parmar. I am a Rajkot India-based freelancer android developer. I have worked on 30+ android applications using Java/Kotlin. I have 5 years of experience in android native app development.
 
 I will provide all types of application development services like offline/online android app development.  
-I will provide an android app development services base on your requirement.
+I will provide android app development services based on your requirement.
 I will develop the android app as per your budget & timeline.
 
 ## Bellow services I will provide:-
@@ -27,10 +27,11 @@ I will develop the android app as per your budget & timeline.
 
 ## Why choose me as your developer
 
-  ✨I will follow the best coding standards and application code will be easily understandable by any developer.
+  ✨I will follow the best coding standards and the application code will be easily understandable by any developer.
   ✨The application will be a user-friendly application.
   ✨All coding will be backward compatible, so don't worry about device compatibility.
-  ✨I will use the android studio as IDE and java/kotlin as a programming language. 
+  ✨I will use the android studio as IDE and Java/Kotlin as a programming language. 
+
 
 ## Client Feedback
   
